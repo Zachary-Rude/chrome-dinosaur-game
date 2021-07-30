@@ -4,6 +4,8 @@ This is a replica of the Google Chrome Dinosaur Game.
 
 I got most of the code from the real Chrome Dino Game (it _is_ open-source, after all).
 
+This replica is licensed under GPL v3.0.
+
 ## __Source Code__
 
 ```html
